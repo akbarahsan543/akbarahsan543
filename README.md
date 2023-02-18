@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akbarahsan543" alt="akbarahsan543" /></a> </p>
 
-- 🔭 I’m currently working on [Pokemon Website Clone](https://pokemon-website-clone.netlify.app)
-
 - 🌱 I’m currently learning **MERN Stack Developement**
 
 - 💬 Ask me about **ReactJS, ReactNative, MongoDb, ExpressJS, NodeJs**
